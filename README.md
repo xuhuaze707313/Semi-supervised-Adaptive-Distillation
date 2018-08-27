@@ -17,7 +17,7 @@ We use the input scale of 600 for ResNet-50 and 500 for ResNet-101. The results 
 We include the custom caffe2 in our code. The requirements is the same as the offical detectron and Caffe2. To run our codes with official Caffe2, please add 2 operators. One is located at `caffe2/modules/detectron/pow_sum_op.h` and the other is located at `caffe2/modules/detectron/sigmoid_focal_distillation_loss_op.h`.
 
 ## Installation
-Please follow the official installation step of [detectron](https://github.com/facebookresearch/Detectron/blob/master/INSTALL.md)
+Please follow the official installation step of [detectron](https://github.com/facebookresearch/Detectron/blob/master/INSTALL.md).
 
 ## Resources
 1. Teacher model: ResNet-101. [BaiduYun](), [Google Drive]()
