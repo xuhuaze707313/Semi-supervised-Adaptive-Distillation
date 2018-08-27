@@ -1,4 +1,4 @@
-# Onmi-supervised Focal distillation
+# Onmi-supervised Focal Distillation
 
 Onmi-supervised focal distillation is a model compression method for object detection. The code is implemented with official [detectron](https://github.com/facebookresearch/Detectron) and [Caffe2](https://github.com/caffe2/caffe2).
 
