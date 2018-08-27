@@ -10,6 +10,7 @@ Focal distillation is released under the MIT License (refer to the LICENSE file 
 |---------------|--------------|---------------|--------------|--------------------------------|
 | ResNet-50     | 34.3         | ResNet-101    | 36.0         | 36.5                           |
 | ResNet-101    | 34.4         | ResNext-101   | 36.6         | 36.8                           |
+
 We use input size of 600*1000 for ResNet-50 and 500*833 for ResNet-101 and the results are reported on COCO mini-val.
 
 ## Requirements
