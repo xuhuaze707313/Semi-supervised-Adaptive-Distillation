@@ -22,8 +22,8 @@ Please follow the official installation step of [detectron](https://github.com/f
 ## Resources
 1. Teacher model: ResNet-101. [BaiduYun](), [Google Drive]()
 2. Teacher model: ResNext-101. [BaiduYun](), [Google Drive]()
-3. The annotation file for COCO 2017 unlabel data produced by the ResNet-101 teacher model above. [BaiduYun]()
-4. The annotation file for COCO 2017 unlabel data produced by the ResNext-101 teacher model above. [BaiduYun]()
+3. The annotation file for COCO 2017 unlabel data produced by the ResNet-101 teacher model above. [BaiduYun](), [Google Drive]()
+4. The annotation file for COCO 2017 unlabel data produced by the ResNext-101 teacher model above. [BaiduYun](), [Google Drive]()
 5. Student model after distillation: ResNet-50. [BaiduYun](). [Google Drive]()
 5. Student model after distillation: ResNet-101. [BaiduYun](). [Google Drive]()
 
