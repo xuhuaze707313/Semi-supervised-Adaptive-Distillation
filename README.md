@@ -2,8 +2,6 @@
 
 Semi-supervised Adaptive Distillation is a model compression method for object detection. Please refer to our [paper]() for more details. The code is implemented with official [detectron](https://github.com/facebookresearch/Detectron) and [Caffe2](https://github.com/caffe2/caffe2).
 
-## License
-Onmi-supervised focal distillation is released under the MIT License (refer to the LICENSE file for details).
 
 ## Main results
 | Student model | Baseline mAP | Teacher model | Baseline mAP | Student mAP after distillation |
